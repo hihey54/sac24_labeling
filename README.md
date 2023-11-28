@@ -19,7 +19,7 @@ This repository contains one folder, "code", which contains all the resources to
 * "Questionnaire.pdf", which reports the questionnaire shown to our SME for our user study (discussed in Section 4);
 * "userStudy_results.pdf", which reports the complete results of our user study (discussed in Section 4 of the paper)
 * "supplementary.pdf", which reports the figures with the remaining performance metrics computed for our experiments (discussed in Section 5 of the paper).
-* "paper.pdf", which is a preprint version of our paper.
+* "sac24_paper.pdf", which is a preprint version of our paper.
 
 ### Remark
 
